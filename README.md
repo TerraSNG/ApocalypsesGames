@@ -1,4 +1,4 @@
-#🔐 TerraCoin-Wallet
+# 🔐 TerraCoin-Wallet
 Кошелек для хранения Terracoin
 
 # 💸 Что такое TerraCoin?
