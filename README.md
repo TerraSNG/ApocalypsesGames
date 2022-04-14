@@ -15,7 +15,8 @@
 Настройки конфигурационного файла для МОНСТРОПОКАЛИПСИСА:
 Вы можете изменять значения после знака = на свои по усмотрению.
 
-`MonsterApocalypseLivesPerWave = 1;
+```
+MonsterApocalypseLivesPerWave = 1;
 
 MonsterApocalypseIntermissionTime = 20;
 
@@ -25,4 +26,6 @@ MonsterApocalypseScoreNotifyInterval = 15;
 
 MonsterApocalypseMaxMonster = 100;
 
-(Не выставлять слишком большое количество, иначе сервер будет лагатьNot to hight or your Server lags) //пока не работает MonsterApocalypseDifficulty = 1; //1 - 5 (1 = самый низкий уровень)`
+(Не выставлять слишком большое количество, иначе сервер будет лагатьNot to hight or your Server lags) //пока не работает MonsterApocalypseDifficulty = 1; //1 - 5 (1 = самый низкий уровень)
+
+```
