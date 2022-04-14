@@ -22,10 +22,10 @@ MonsterApocalypseIntermissionTime = 20;
 
 MonsterApocalypseScoreNotifyInterval = 15;
 
-(Как часто будет отображаться Таблица рекордов) MonsterApocalypseMinimumPlayers = 1;
+MonsterApocalypseMinimumPlayers = 1;
 
 MonsterApocalypseMaxMonster = 100;
 
-(Не выставлять слишком большое количество, иначе сервер будет лагатьNot to hight or your Server lags) //пока не работает MonsterApocalypseDifficulty = 1; //1 - 5 (1 = самый низкий уровень)
+MonsterApocalypseDifficulty = 1; 
 
 ```
